@@ -1,7 +1,7 @@
 {
   "name": "node_express_typescript_template",
   "version": "1.0.0",
-  "description": "This is the base template for all nodejs, express and typescript applications",
+  "description": "Minimalistic template to quick-start Node.js, Express.js development in TypeScript.",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
